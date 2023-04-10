@@ -1374,4 +1374,19 @@
     <icon drawable="@drawable/ic_one_yufz_hmspush" package="one.yufz.hmspush"/>
     <icon drawable="@drawable/cayt" package="com.xeasy.noticefix"/>
     <icon drawable="@drawable/qqread" package="com.qq.reader"/>
+    <icon drawable="@drawable/zlibrary" package="com.positron_it.zlib" name="ZLib" />
+    <icon drawable="@drawable/seu_it" package="cn.edu.seu.iportal" name="东大信息化" />
+    <icon drawable="@drawable/lele_richfighter" package="com.lelejj.dt" name="乐乐竞技斗地主" />
+    <icon drawable="@drawable/picacg" package="com.picacomic.fregata" name="PicACG" />
+    <icon drawable="@drawable/jm_comic" package="com.jiaohua_browser" name="JMComic2" />
+    <icon drawable="@drawable/bose_connect" package="com.bose.monet" name="Bose Connect" />
+    <icon drawable="@drawable/csdn" package="net.csdn.csdnplus" name="CSDN" />
+    <icon drawable="@drawable/wolfram_alpha" package="com.wolfram.android.alpha" name="Wolf Alpha" />
+    <icon drawable="@drawable/power_tube" package="ussr.razar.youtube_dl" name="PowerTube"/>
+    <icon drawable="@drawable/magisk" package="qyjx.xpuafmidrr" name="Winnie Mask"/>
+    <icon drawable="@drawable/camscanner" package="com.intsig.camscanner" name="扫描全能王"/>
+    <icon drawable="@drawable/eudic" package="com.eusoft.eudic" name="欧路词典"/>
+    <icon drawable="@drawable/nfc_simulator" package="com.yuanwofei.cardemulator.pro" name="NFC卡模拟"/>
+    <icon drawable="@drawable/termius" package="com.server.auditor.ssh.client" name="Termius"/>
+    <icon drawable="@drawable/bing" package="com.microsoft.bing" name="Bing"/>
 </icons>
